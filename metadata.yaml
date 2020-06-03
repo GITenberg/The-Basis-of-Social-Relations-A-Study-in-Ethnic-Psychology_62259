@@ -1,0 +1,37 @@
+_repo: The-Basis-of-Social-Relations-A-Study-in-Ethnic-Psychology_62259
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Brinton, Daniel G. (Daniel Garrison)
+    aliases:
+    - Brinton, D. G. (Daniel Garrison)
+    - Brinton, Daniel Garrison
+    birthdate: 1837
+    deathdate: 1899
+    gutenberg_agent_id: '2993'
+    url: http://www.gutenberg.org/2009/agents/2993
+    wikipedia: https://en.wikipedia.org/wiki/Daniel_Garrison_Brinton
+  editor:
+    agent_name: Farrand, Livingston
+    birthdate: 1867
+    deathdate: 1939
+    gutenberg_agent_id: '51857'
+    url: http://www.gutenberg.org/2009/agents/51857
+    wikipedia: https://en.wikipedia.org/wiki/Livingston_Farrand
+description: ''
+gutenberg_issued: '2020-05-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62259'
+  lccn: 02003449
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ethnopsychology'
+- !lcc 'BF'
+- !lcsh 'Sociology'
+- GITenberg
+title: 'The Basis of Social Relations: A Study in Ethnic Psychology'
+url: http://www.gutenberg.org/ebooks/62259
